@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou Arthur Casanova</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%">
+  <img C:\Users\Gileno Siqueira\Downloads\WhatsApp Image 2025-12-09 at 08.48.50.jpeg>
 </p>
 
 ---
