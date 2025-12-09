@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou Arthur Casanova</h1>
 
 <p align="center">
-  <img https://avatars.githubusercontent.com/u/234406639?s=400&u=ae4f188c8f240c2718fa5f09c5588f6701d5c8da&v=4>
+  <img src="https://avatars.githubusercontent.com/u/234406639?s=400&u=ae4f188c8f240c2718fa5f09c5588f6701d5c8da&v=4">
 </p>
 
 ---
